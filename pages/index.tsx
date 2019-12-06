@@ -1,5 +1,4 @@
-import React from 'react';
-
+import React from "react";
 
 const Home = () => {
   return (
@@ -10,6 +9,6 @@ const Home = () => {
       <h1>Hello New Blog!</h1>
     </>
   );
-}
+};
 
 export default Home;
